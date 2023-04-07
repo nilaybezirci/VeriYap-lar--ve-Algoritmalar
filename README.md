@@ -1,1 +1,2 @@
-# VeriYap-lar--ve-Algoritmalar
+Patika veri yapıları ve Algoritmalar dersindeki projeler
+
